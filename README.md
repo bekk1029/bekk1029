@@ -8,7 +8,12 @@ Web developer
 
 <a href="https://www.github.com/bekk1029" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/bekk1029?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+
+
+
 ![](https://66.media.tumblr.com/7d5f9c81412c0e52fa775d6400de0ec4/tumblr_pipxaeOscY1qbyb95o8_400.gif)
+
+
 ### Skills
 
 
