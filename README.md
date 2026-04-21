@@ -6,7 +6,7 @@
 ╚══════════════════════════════════════════════════════╝
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=16&pause=1000&color=00F5C4&center=true&vCenter=true&width=500&lines=Fullstack+Web+Developer;React+%7C+Next.js+%7C+Node.js+Engineer;Building+things+that+matter." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=16&pause=1000&color=00F5C4&center=true&vCenter=true&width=500&lines=Fullstack+Developer;React+%7C+Next.js+%7C+Node.js+Engineer;Building+things+that+matter." alt="Typing SVG" />
 
 </div>
 
