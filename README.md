@@ -1,43 +1,116 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Балжинням
-=================================================================================================================================
+<div align="center">
 
-Web developer
--------------
+```
+╔══════════════════════════════════════════════════════╗
+║  БАЛЖИННЯМ  ·  FULLSTACK ENGINEER  ·  MN/UB          ║
+╚══════════════════════════════════════════════════════╝
+```
 
-* 🌍  I'm based in Mongolia
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=16&pause=1000&color=00F5C4&center=true&vCenter=true&width=500&lines=Fullstack+Web+Developer;React+%7C+Next.js+%7C+Node.js+Engineer;Building+things+that+matter." alt="Typing SVG" />
 
-<a href="https://www.github.com/bekk1029" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/bekk1029?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+</div>
 
+---
 
+<img align="right" width="38%" src="https://github-readme-stats.vercel.app/api?username=bekk1029&show_icons=true&count_private=true&title_color=00f5c4&text_color=a0aec0&icon_color=7b61ff&bg_color=07071a&hide_border=true&show_icons=true" />
 
-![](https://66.media.tumblr.com/7d5f9c81412c0e52fa775d6400de0ec4/tumblr_pipxaeOscY1qbyb95o8_400.gif)
+### `> whoami`
 
+```yaml
+name       : Балжинням
+role       : Fullstack Developer
+location   : Ulaanbaatar, Mongolia
+status     : open to opportunities
+focus      : Clean code · Fast UIs · Scalable APIs
+```
 
-### Skills
+### `> contact`
 
+```yaml
+github     : github.com/bekk1029
+```
 
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://render.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/render-colored.svg" width="36" height="36" alt="Render" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a>
-</p>
+<br clear="right"/>
 
+---
 
-### Socials
+### `> tech_stack --list`
 
-<p align="left"> <a href="https://www.github.com/bekk1029" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
+**Frontend**
 
-### Badges
+![JavaScript](https://img.shields.io/badge/JavaScript-07071a?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-07071a?style=flat-square&logo=typescript&logoColor=3178C6)
+![React](https://img.shields.io/badge/React-07071a?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-07071a?style=flat-square&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-07071a?style=flat-square&logo=tailwindcss&logoColor=38BDF8)
+![Material UI](https://img.shields.io/badge/MUI-07071a?style=flat-square&logo=mui&logoColor=007FFF)
+![HTML5](https://img.shields.io/badge/HTML5-07071a?style=flat-square&logo=html5&logoColor=E34F26)
 
-<b>My GitHub Stats</b>
+**Backend**
 
-<a href="http://www.github.com/bekk1029"><img src="https://github-readme-stats.vercel.app/api?username=bekk1029&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=0891b2&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="bekk1029's GitHub stats" /></a>
+![Node.js](https://img.shields.io/badge/Node.js-07071a?style=flat-square&logo=nodedotjs&logoColor=5FA04E)
+![Express](https://img.shields.io/badge/Express-07071a?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-07071a?style=flat-square&logo=mongodb&logoColor=47A248)
+![REST API](https://img.shields.io/badge/REST_API-07071a?style=flat-square&logo=fastapi&logoColor=00f5c4)
 
-<a href="http://www.github.com/bekk1029"><img src="https://github-readme-streak-stats.herokuapp.com/?user=bekk1029&stroke=0891b2&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=0891b2&currStreakLabel=0891b2&sideNums=0891b2&sideLabels=0891b2&dates=0891b2&hide_border=true" /></a>
+**DevOps & Tools**
 
-<a href="http://www.github.com/bekk1029"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=bekk1029&bg_color=1c1917&color=0891b2&line=0891b2&point=0891b2&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+![Git](https://img.shields.io/badge/Git-07071a?style=flat-square&logo=git&logoColor=F05032)
+![AWS](https://img.shields.io/badge/AWS-07071a?style=flat-square&logo=amazonwebservices&logoColor=FF9900)
+![Render](https://img.shields.io/badge/Render-07071a?style=flat-square&logo=render&logoColor=46E3B7)
+![Figma](https://img.shields.io/badge/Figma-07071a?style=flat-square&logo=figma&logoColor=F24E1E)
 
-<a href="https://github.com/bekk1029" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bekk1029&langs_count=10&title_color=0891b2&text_color=0891b2&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+---
 
-<b>Top Repositories</b>
+### `> projects --featured`
 
-<div width="100%" align="center"><a href="https://github.com/bekk1029/Food-Delivery" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=bekk1029&repo=Food-Delivery&title_color=0891b2&text_color=0891b2&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/bekk1029/Team-5" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=bekk1029&repo=Team-5&title_color=0891b2&text_color=0891b2&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<table>
+<tr>
+<td width="50%">
+
+**[Food Delivery](https://github.com/bekk1029/Food-Delivery)**
+
+Full-stack food ordering platform with real-time order tracking and payment integration.
+
+`React` `Node.js` `MongoDB` `Express`
+
+</td>
+<td width="50%">
+
+**[Team-5](https://github.com/bekk1029/Team-5)**
+
+Team collaboration tool built during hackathon. Real-time features with live sync.
+
+`Next.js` `TypeScript` `TailwindCSS`
+
+</td>
+</tr>
+</table>
+
+---
+
+### `> github --stats`
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bekk1029&langs_count=8&layout=compact&title_color=00f5c4&text_color=a0aec0&bg_color=07071a&hide_border=true" />
+
+<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=bekk1029&stroke=00f5c4&background=07071a&ring=7b61ff&fire=ff4d6d&currStreakNum=ffffff&currStreakLabel=00f5c4&sideNums=a0aec0&sideLabels=a0aec0&dates=555&hide_border=true" />
+
+</div>
+
+---
+
+<div align="center">
+
+```
+[ FRONTEND ] ──────────────── React · Next.js · Tailwind · TypeScript
+[ BACKEND  ] ──────────────── Node.js · Express · REST API
+[ DATABASE ] ──────────────── MongoDB
+[ CLOUD    ] ──────────────── AWS · Render
+[ DESIGN   ] ──────────────── Figma
+```
+
+*"First, solve the problem. Then, write the code."*
+
+</div>
